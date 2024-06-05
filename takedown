@@ -1,0 +1,3 @@
+print("Loading")
+wait(3)
+print("Loaded Enjoy")
