@@ -1,3 +1,3 @@
-print("Loading")
-wait(3)
-print("Loaded Enjoy")
+local player = game.Players.LocalPlayer
+player:Kick("Server Response: Down Until Further Notice")
+print("❌ Server Response: Down Until Further Notice"
