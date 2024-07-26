@@ -1,3 +1,2 @@
-local player = game.Players.LocalPlayer
-player:Kick("Server Response: Down Until Further Notice")
-print("❌ Server Response: Down Until Further Notice"
+print("loading Beamed.Xyz")
+print("Beamed.Xyz Loaded Enjoy")
